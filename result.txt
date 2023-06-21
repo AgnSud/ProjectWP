@@ -1,0 +1,13 @@
+W pliku był graf, o następujących własnościach:
+Liczba chromatyczna: 2
+Przykladowe kolorowanie grafu: 
+	 wierzchołek '1' pokolorowany na kolor 0
+	 wierzchołek '2' pokolorowany na kolor 1
+	 wierzchołek '3' pokolorowany na kolor 1
+	 wierzchołek '4' pokolorowany na kolor 0
+	 wierzchołek '5' pokolorowany na kolor 0
+	 wierzchołek '6' pokolorowany na kolor 0
+	 wierzchołek '7' pokolorowany na kolor 0
+Jest dwudzielny
+Nie jest hamiltonowski
+Nie jest eulerowski ani semi-eulerowski
